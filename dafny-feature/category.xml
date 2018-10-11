@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <bundle id="dafny_language_server" version="1.0.0.qualifier">
+      <category name="Dafny"/>
+   </bundle>
+   <bundle id="dafny_language_client" version="1.0.0.qualifier">
+      <category name="Dafny"/>
+   </bundle>
+   <category-def name="Dafny" label="Dafny"/>
+</site>
